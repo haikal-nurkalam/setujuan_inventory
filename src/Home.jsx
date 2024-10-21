@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <button className="btn-secondary">Woasdasd</button>
+      <button className="btn btn-primary">Woasdasd</button>
     </div>
   );
 }
